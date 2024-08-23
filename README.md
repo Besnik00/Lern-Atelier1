@@ -10,7 +10,7 @@ Reflexion: Ich denke, dass ich die meisten meiner Ziele erreicht habe, aber ich 
 # Lern-Atelier2
 ## 2.Tag
 ### Ziele
-1.Handlungsziel 2 weiter machen
+1.Handlungsziel 2 weiter machen (nur MiZ und EwZ)
 2.Modul 319 weiter arbeiten
 3. x Schwierigkeiten und Fragen klären
 4. genügende Pausen machen
