@@ -16,6 +16,6 @@ Reflexion: Ich denke, dass ich die meisten meiner Ziele erreicht habe, aber ich 
 5.Wenn noch Zeit übrig: HZ 3 starten
  
 #### Zielerriechung und Feedback
-Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der Hilfe meines Lehrers. Ich könnte allerdings noch ein paar Pausen machen, aber sonst habe ich alles erreicht und ich werde weiter arbeiten.
+Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der Hilfe meines Lehrers, da sie meine fragen geklärt hat. Ich könnte allerdings noch ein paar Pausen machen, aber sonst habe ich alles erreicht und ich werde weiter arbeiten.
 
 
