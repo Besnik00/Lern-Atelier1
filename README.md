@@ -11,7 +11,6 @@ Reflexion: Ich denke, dass ich die meisten meiner Ziele erreicht habe, aber ich 
 ## 2.Tag
 ### Ziele
 1.Handlungsziel 2 weiter machen (nur MiZ und EwZ)
-2.Modul 319 weiter arbeiten
 3. x Schwierigkeiten und Fragen klären
 4. genügende Pausen machen
 5.Wenn noch Zeit übrig: HZ 3 starten
