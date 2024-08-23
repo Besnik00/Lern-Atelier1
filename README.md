@@ -15,7 +15,7 @@ Reflexion: Ich denke, dass ich die meisten meiner Ziele erreicht habe, aber ich 
 3. x Schwierigkeiten und Fragen klären
 4. genügende Pausen machen
 5.Wenn noch Zeit übrig: HZ 3 starten
-Reflexion: 
+ 
 #### Zielerriechung und Feedback
 
 
