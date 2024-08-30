@@ -25,5 +25,7 @@ Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der H
 3.Operatoren, implizite und exlpitize Konvertierung bei Programmierung verstehen
 4. EVA verstehen und repetieren mit Aufageben
 5. Fragen klären
+#### Zielerriechung und Feedback
+Ich habe meine Ziele sehr gut erreicht, dank der Hilfe meines Lehrers und Schulkollegen, da sie meine fragen geklärt haben und mir geholfen haben. Jetzt bin ich ein Schritt weiter gekommen
 
 
