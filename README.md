@@ -17,5 +17,13 @@ Reflexion: Ich denke, dass ich die meisten meiner Ziele erreicht habe, aber ich 
  
 #### Zielerriechung und Feedback
 Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der Hilfe meines Lehrers, da sie meine fragen geklärt hat. Ich könnte allerdings noch ein paar Pausen machen, aber sonst habe ich alles erreicht und ich werde weiter arbeiten.
+# Lern-Atelier3
+## 3.Tag
+### Ziele
+1.Modul 319 weiter arbeiten
+2.Programmieren verstehen
+3.Operatoren, implizite und exlpitize Konvertierung bei Programmierung verstehen
+4. EVA verstehen und repetieren mit Aufageben
+5. Fragen klären
 
 
