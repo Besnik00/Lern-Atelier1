@@ -6,7 +6,8 @@
 3. Fragen klären
 4. Schwierigkeiten klären
   #### Zielerriechung und Feedback 
-
+Ich denke, dass ich den Modul 319 besser verstanden habe und kann jetzt besser mit Schleifen programmieren.
+In Modul 431 habe ich ein paar Aufgaben gemacht, also denke dass ich meine Ziele erreicht habe.
 
 
 
