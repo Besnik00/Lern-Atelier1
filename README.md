@@ -1,3 +1,16 @@
+# Lern-Atelier4
+## 4.Tag
+### Ziele
+1. Modul 431 weiter arbeiten
+2. Programmieren bei Modul 319 besser verstehen
+3. Fragen klären
+4. Schwierigkeiten klären
+  #### Zielerriechung und Feedback 
+
+
+
+
+
 # Lern-Atelier1
 ## 1.Tag
 ### Ziele
@@ -27,5 +40,7 @@ Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der H
 5. Fragen klären
 #### Zielerriechung und Feedback
 Ich habe meine Ziele sehr gut erreicht, dank der Hilfe meines Lehrers und Schulkollegen, da sie meine fragen geklärt haben und mir geholfen haben. Jetzt bin ich ein Schritt weiter gekommen
+
+
 
 
