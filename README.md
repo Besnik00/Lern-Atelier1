@@ -1,12 +1,13 @@
-# Lern-Atelier5
+# Lern-Atelier5 (13.09.2024)
 ## 5.Tag
 ### Ziele
 1. Modul 431 weiterarbeiten
 2.  Programmierung besser verstehe und üben
 3.  Modul 319 fragen klären
 4.  Schwierigkeiten klären
-
-# Lern-Atelier4
+#### Zielerriechung und Feedback 
+ ich habe den Modul 319 und Programmierung besser verstanden und kann jetzt mit Arrays arbeiten und besser die Lage verstehen. Modul 431 habe ich weitergearbeitet und habe meine Fragen geklärt.
+# Lern-Atelier4 (6.09.2024)
 ## 4.Tag
 ### Ziele
 1. Modul 431 weiter arbeiten
@@ -17,7 +18,7 @@
 Ich denke, dass ich den Modul 319 besser verstanden habe und kann jetzt besser mit Schleifen programmieren.
 In Modul 431 habe ich ein paar Aufgaben gemacht, also denke dass ich meine Ziele erreicht habe.
 
-# Lern-Atelier3
+# Lern-Atelier3 (30.08.2024)
 ## 3.Tag
 ### Ziele
 1.Modul 319 weiter arbeiten
@@ -28,7 +29,7 @@ In Modul 431 habe ich ein paar Aufgaben gemacht, also denke dass ich meine Ziele
 #### Zielerriechung und Feedback
 Ich habe meine Ziele sehr gut erreicht, dank der Hilfe meines Lehrers und Schulkollegen, da sie meine fragen geklärt haben und mir geholfen haben. Jetzt bin ich ein Schritt weiter gekommen
 
-# Lern-Atelier2
+# Lern-Atelier2 (23.08.2024)
 ## 2.Tag
 ### Ziele
 1.Handlungsziel 2 weiter machen (nur MiZ und EwZ)
@@ -40,7 +41,7 @@ Ich habe meine Ziele sehr gut erreicht, dank der Hilfe meines Lehrers und Schulk
 Ich habe alle meine Ziele erreicht, dank der Arbeit mit meinem Partner und der Hilfe meines Lehrers, da sie meine fragen geklärt hat. Ich könnte allerdings noch ein paar Pausen machen, aber sonst habe ich alles erreicht und ich werde weiter arbeiten.
 
 
-# Lern-Atelier1
+# Lern-Atelier1 (16.08.2024)
 ## 1.Tag
 ### Ziele
 1.AlgorithmenAbbilden mit PapDeisgner besser verstehen
