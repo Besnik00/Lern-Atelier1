@@ -1,3 +1,11 @@
+# Lern-Atelier5
+## 5.Tag
+### Ziele
+1. Modul 431 weiterarbeiten
+2.  Programmierung besser verstehe und üben
+3.  Modul 319 fragen klären
+4.  Schwierigkeiten klären
+
 # Lern-Atelier4
 ## 4.Tag
 ### Ziele
