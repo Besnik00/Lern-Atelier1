@@ -6,6 +6,7 @@
 3. fragen klären
 4. Schwierigkeiten klären
 #### Zielerriechung und Feedback 
+ich hab die Aufgabe 1726 fertig gemacht, und noch mehr gelernt beim programmierung, dank unser Input und  noch wegen die Programmierungvorschläge. Ich habe meine Fragen geklärt und verstehe immer besser die Programmierung
 
 # Lern-Atelier5 (13.09.2024)
 ## 5.Tag
