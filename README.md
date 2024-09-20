@@ -1,3 +1,12 @@
+# Lern-Atelier6 (20.09.2024)
+## 6.Tag
+### Ziele
+1. Modul 431 Aufgabe 1726 fertig machen
+2. Programmieren üben
+3. fragen klären
+4. Schwierigkeiten klären
+#### Zielerriechung und Feedback 
+
 # Lern-Atelier5 (13.09.2024)
 ## 5.Tag
 ### Ziele
