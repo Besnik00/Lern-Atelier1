@@ -1,3 +1,14 @@
+# Lern-Atelier7 (18.10.2024)
+## 7-Tag
+### Ziele
+1. Powerpoints durchlesen von M319
+2. Einfache Programmieren Aufgaben erstellen
+3. Schwierige Aufgaben probieren
+4.  Schwierigkeiten klären
+5.  Fragen klären
+6.  Generell Programmieren üben
+#### Zielerreichung und Feedback
+
 # Lern-Atelier6 (20.09.2024)
 ## 6.Tag
 ### Ziele
