@@ -8,6 +8,7 @@
 5.  Fragen klären
 6.  Generell Programmieren üben
 #### Zielerreichung und Feedback
+Ich habe Aufgaben gelöst und vestehe besser wie man programmiert. Ich habe ein paar Schwierigkeiten geklärt und werde noch üben und Aufgaben lösen
 
 # Lern-Atelier6 (20.09.2024)
 ## 6.Tag
