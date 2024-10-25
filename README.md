@@ -1,3 +1,14 @@
+# Lern-Atelier8 (25.10.2024)
+## 8-Tag
+### Ziele
+1. WICHTIG: M319 Powerpoints durchlesen
+2. Programmierung Aufgaben lösen
+3. Wenn die zu einfach sind, schwierige probieren
+4. Genügende Pausen machen
+5. Schwierigkeiten klären
+6. Fragen klären
+   
+
 # Lern-Atelier7 (18.10.2024)
 ## 7-Tag
 ### Ziele
