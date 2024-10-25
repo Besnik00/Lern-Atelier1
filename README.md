@@ -7,6 +7,8 @@
 4. Genügende Pausen machen
 5. Schwierigkeiten klären
 6. Fragen klären
+#### Zielerreichung und Feedback
+Ich habe heute viel gelernt und geübt. Mit Hilfe von Powerpoints könnte ich meine Aufgaben besser lösen. Mit dem Input habe ich mich viel verbessert und verstehe wie man beim Programmirene vorgehen muss. Ich hoffe, dass wir solche Inputs weiter machen werden. Ich werde noch weiter üben und mich verbessern
    
 
 # Lern-Atelier7 (18.10.2024)
