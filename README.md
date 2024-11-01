@@ -1,3 +1,14 @@
+# Lern-Atelier9 (1.11.2024)
+## 9-tag
+### Ziele
+1. M319 Input machen
+2. Aufgaben machen
+3. Portfolio M319 machen
+4. Modul 162 Aufgaben fertig machen
+5. Fragen klären
+6. Schwierigkeiten klären
+#### Zielerreichung und Feedback
+
 # Lern-Atelier8 (25.10.2024)
 ## 8-Tag
 ### Ziele
