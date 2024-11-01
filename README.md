@@ -8,7 +8,7 @@
 5. Fragen klären
 6. Schwierigkeiten klären
 #### Zielerreichung und Feedback
-
+Ich habe den Input gut gefunden und die aufgaben haben mich sehr geholfen. Ich habe den Potfolio fast fertig geschrieben und meine Schwierigkeiten haben sich geklärt, aber leider habe ich M162 nicht weiter gearbeitet.
 # Lern-Atelier8 (25.10.2024)
 ## 8-Tag
 ### Ziele
