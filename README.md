@@ -1,3 +1,10 @@
+# Lern-Atelier(8.11.2024)
+## 10-Tag
+### Ziele 
+1. Programmierprojekt Teil Informieren machen
+2. Modul 162 Aufgaben fertig machen
+3. Fragen klären
+4. Genügende Pause machen
 # Lern-Atelier9 (1.11.2024)
 ## 9-tag
 ### Ziele
