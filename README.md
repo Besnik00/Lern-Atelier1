@@ -2,7 +2,7 @@
 ## 10-Tag
 ### Ziele 
 1. Programmierprojekt Teil Informieren machen
-2. Modul 162 Aufgaben fertig machen
+2. Modul 162 Aufgaben von 6.11 fertig machen
 3. Fragen klären
 4. Genügende Pause machen
 # Lern-Atelier9 (1.11.2024)
