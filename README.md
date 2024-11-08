@@ -5,6 +5,8 @@
 2. Modul 162 Aufgaben von 6.11 fertig machen
 3. Fragen klären
 4. Genügende Pause machen
+#### Zielerreichung und Feedback
+Ich habe die Aufgaben bon 6.11 fertig gemacht und bin zufrieden dafür, weil ich die sehr schwierig fand. Ich habe mit mein Team den Teil Informieren fertig erstellet und werden noch das nächstes mal den Teil Planen machen.
 # Lern-Atelier9 (1.11.2024)
 ## 9-tag
 ### Ziele
