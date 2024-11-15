@@ -4,6 +4,8 @@
 1. Aufgaben von 13.11. fertig machen
 2. PAP bei Programmierprojekt machen
 3. Beim Programmierprojekt teil Kontrollieren machen
+#### Zielerreichung und Feedback
+ich und mein Team haben gemeinsam das PAP fertig gemacht und ich persönlich habe die Aufgaben von 15. fertig gelöst und freue mich dafür. Ich habe das PAP, die Planung und die Qualität kontrolliert und werde vielleicht in die Zukunft eine Checkliste erstellen
 # Lern-Atelier(8.11.2024)
 ## 10-Tag
 ### Ziele 
