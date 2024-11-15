@@ -1,3 +1,9 @@
+# Lern-Atelier(15.11.2024)
+## 11-Tag
+### Ziele 
+1. Aufgaben von 13.11. fertig machen
+2. PAP bei Programmierprojekt machen
+3. Genügende Pause machen
 # Lern-Atelier(8.11.2024)
 ## 10-Tag
 ### Ziele 
