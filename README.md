@@ -5,7 +5,7 @@
 2. Aufgaben von Mittwoch Modul 162 achen
 3. Portfolio Modul 162 Thema auswählen
 #### Zielerreichung und Feedback
-
+Wir könnten das Programm Verbessern und die meisten Fehlern lösen. Ich habe die Aufgaben von Mittwoch fast fertig gelöst und bin zufrieden, aber leider den Thema nicht ausgewählt.
 # Lern-Atelier(15.11.2024)
 ## 11-Tag
 ### Ziele 
