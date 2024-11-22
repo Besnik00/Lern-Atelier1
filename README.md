@@ -4,6 +4,8 @@
 1. Programm mit mein Team starten(Programmierprojekt)
 2. Aufgaben von Mittwoch Modul 162 achen
 3. Portfolio Modul 162 Thema auswählen
+#### Zielerreichung und Feedback
+
 # Lern-Atelier(15.11.2024)
 ## 11-Tag
 ### Ziele 
