@@ -4,6 +4,8 @@
 1.Programm mit mein Team fertig stellen
 2.Für den Vortrag am Dienstag vorbereiten
 3.Modul 162 Aufgaben von Mittwoch fertig lösen
+#### Zielerreichung und Feedback
+ich habe mit mein Team das Programm fertig gestellt und wir haben uns für den Vortrag vorbereitet. Die Aufgaben von Mittwoch habe ich nicht fertig gelöst, aber ich werde sie in Ruhe noch lösen.
 # Lern-Atelier(22.11.2024)
 ## 12-Tag
 ### Ziele 
