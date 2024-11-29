@@ -2,8 +2,8 @@
 ## 13-Tag
 ### Ziele 
 1.Programm mit mein Team fertig stellen
-2. Für den Vortrag am Dienstag vorbereiten
-3. Modul 162 Aufgaben von Mittwoch fertig lösen
+2.Für den Vortrag am Dienstag vorbereiten
+3.Modul 162 Aufgaben von Mittwoch fertig lösen
 # Lern-Atelier(22.11.2024)
 ## 12-Tag
 ### Ziele 
