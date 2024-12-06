@@ -1,7 +1,7 @@
 # Lern-Atelier(06.12.2024)
 ## 14-Tag
 ### Ziele 
-1. Eigenes Projekt erstellen
+1. Idee finden und eigenes Projekt erstellen
 2. Portfolio Modul162 schreiben
 3. Nach IPERKA planen (Projekt)
 # Lern-Atelier(29.11.2024)
