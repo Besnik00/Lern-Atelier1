@@ -3,7 +3,9 @@
 ### Ziele 
 1. Idee finden und eigenes Projekt erstellen
 2. Portfolio Modul162 schreiben
-3. Nach IPERKA planen (Projekt)
+3. Gesamtrepetion Modul 162
+#### Zielerreichung und Feedback
+Ich habe viel mehr bei dem Modul 162 gelernt und kann ich mich besser dort verstehen. Ich habe aber leider Portfolio nicht geschafft und aber eine Idee für den Projekt gefunden.
 # Lern-Atelier(29.11.2024)
 ## 13-Tag
 ### Ziele 
