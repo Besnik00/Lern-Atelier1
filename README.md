@@ -1,3 +1,9 @@
+# Thema Programmier projekt (Ideen)
+Wetter-Info-App
+Beschreibung: Ein Programm, das aktuelle Wetterinformationen für eine Stadt anzeigt.
+Schere-Stein-Papier-Spiel
+Beschreibung: Ein Spiel, in dem du gegen den Computer Schere-Stein-Papier spielst.
+
 # Lern-Atelier(06.12.2024)
 ## 14-Tag
 ### Ziele 
