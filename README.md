@@ -1,3 +1,9 @@
+# Lern-Atelier(13.12.2024)
+## 15-Tag
+### Ziele 
+1. Dokumentation schreiben
+2. Informieren auf Programmier-Projekt
+3. Teil Planen machen
 # Thema Programmier projekt (Ideen)
 Wetter-Info-App
 Beschreibung: Ein Programm, das aktuelle Wetterinformationen für eine Stadt anzeigt.
