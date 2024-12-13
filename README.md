@@ -4,6 +4,8 @@
 1. Dokumentation schreiben
 2. Informieren auf Programmier-Projekt
 3. Teil Planen machen
+#### Zielerreichung und Feedback
+Ich habe meine Dokumentation gechreiben und das Teil Informieren und Planen fertig erstellt. Dafür könnte ich mich längere Pause leisten
 # Thema Programmier projekt (Ideen)
 Wetter-Info-App
 Beschreibung: Ein Programm, das aktuelle Wetterinformationen für eine Stadt anzeigt.
