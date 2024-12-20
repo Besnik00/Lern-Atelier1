@@ -1,3 +1,9 @@
+# Lern-Atelier(20.12.2024)
+## 16-Tag
+### Ziele 
+1. Planung fertig stellen
+2. Programm starten
+3. Zusätzliche Anforderungen recherchieren
 # Lern-Atelier(13.12.2024)
 ## 15-Tag
 ### Ziele 
