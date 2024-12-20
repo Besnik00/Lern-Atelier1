@@ -4,6 +4,8 @@
 1. Planung fertig stellen
 2. Programm starten
 3. Zusätzliche Anforderungen recherchieren
+#### Zielerreichung und Feedback
+Ich habe die Planung fertig gestellt und das Programm gestartet und habe auch ein paar Anforderungen gefunden, die das Programm anders machen.
 # Lern-Atelier(13.12.2024)
 ## 15-Tag
 ### Ziele 
