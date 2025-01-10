@@ -4,6 +4,9 @@
 1. Programm weiter schreiben
 2. Anforderungen recherchieren
 3. Modul 164 üben -> Aufgaben von Mittwoch
+#### Zielerreichung und Feedback
+Ich habe das Programm weiter geschrieben und die Aufgaben weiter gelöst aber nicht fertig, weil ich leider keine Zeit hatte.
+
 # Lern-Atelier(20.12.2024)
 ## 16-Tag
 ### Ziele 
