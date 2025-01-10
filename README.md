@@ -1,3 +1,9 @@
+# Lern-Atelier(10.01.2025)
+## 17-Tag
+### Ziele 
+1. Programm weiter schreiben
+2. Anforderungen recherchieren
+3. Modul 164 üben -> Aufgaben von Mittwoch
 # Lern-Atelier(20.12.2024)
 ## 16-Tag
 ### Ziele 
