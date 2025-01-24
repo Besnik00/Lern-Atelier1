@@ -1,3 +1,9 @@
+# Lern-Atelier(24.01.2025)
+## 19-Tag
+### Ziele 
+1. Programm weiter schreiben
+2. Modul 117 HZ 5 fertig lösen
+3. Modul 164 LB Thema finden
 # Lern-Atelier(10.01.2025)
 ## 17-Tag
 ### Ziele 
