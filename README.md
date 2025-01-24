@@ -4,6 +4,8 @@
 1. Programm weiter schreiben
 2. Modul 117 HZ 5 fertig lösen
 3. Modul 164 LB Thema finden
+#### Zielerreichung und Feedback
+Ich habe an die Moudel weiter gearbeitet aber das Programm nicht fertig geschrieben
 # Lern-Atelier(10.01.2025)
 ## 17-Tag
 ### Ziele 
